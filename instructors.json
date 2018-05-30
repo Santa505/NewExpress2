@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1",
+    "name": "Kyle Coberly",
+    "title": "Faculty Director",
+    "dogs": "0"
+  },
+  {
+    "id": "2",
+    "name": "Danny Fritz",
+    "title": "Lead Instructor",
+    "dogs": "0"
+  },
+  {
+    "id": "3",
+    "name": "CJ Reynolds",
+    "title": "Lead Instructor",
+    "dogs": "0"
+  },
+  {
+    "id": "4",
+    "name": "Brooks Patton",
+    "title": "Lead Instructor",
+    "dogs": "0"
+  },
+  {
+    "id": "5",
+    "name": "Roberto Ortega",
+    "title": "Lead Instructor",
+    "dogs": "1"
+  },
+  {
+    "id": "6",
+    "name": "Chad Drummond",
+    "title": "Instructor",
+    "dogs": "0"
+  },
+  {
+    "id": "7",
+    "name": "Kim Schlesinger",
+    "title": "Instructor",
+    "dogs": "0"
+  },
+  {
+    "id": "8",
+    "name": "Peter Ostiguy",
+    "title": "Associate Instructor",
+    "dogs": "1"
+  },
+  {
+    "id": "9",
+    "name": "Cass Torske",
+    "title": "Resident",
+    "dogs": "1"
+  },
+  {
+    "id": "10",
+    "name": "Matt Winzer",
+    "title": "Resident",
+    "dogs": "2"
+  },
+  {
+    "id": "11",
+    "name": "Aaron Goodman",
+    "title": "Resident",
+    "dogs": "0"
+  },
+  {
+    "id": "12",
+    "name": "Michelle Bergquist",
+    "title": "Resident",
+    "dogs": "1"
+  }
+]
+
+
